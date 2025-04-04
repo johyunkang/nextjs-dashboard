@@ -5,6 +5,9 @@ This is the starter template for the Next.js App Router Course. It contains the 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
 
+# 진행 상황
+- chapter 12의 https://nextjs.org/learn/dashboard-app/mutating-data#1-create-a-new-route-and-form 부터 진행 해라
+
 # Run server
 - `pnpm run dev`
 
