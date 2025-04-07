@@ -6,6 +6,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 
 # 진행 상황
+- chapter 15의 https://nextjs.org/learn/dashboard-app/adding-authentication#updating-the-login-form 아래 login-form.tsx 부터
 - chapter 12의 https://nextjs.org/learn/dashboard-app/mutating-data#1-create-a-new-route-and-form 부터 진행 해라
 
 # Run server
