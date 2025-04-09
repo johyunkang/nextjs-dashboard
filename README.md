@@ -4,6 +4,9 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
+## login info
+- ID: user@nextmail.com
+- PW: 123456
 
 # 진행 상황
 - chapter 15의 https://nextjs.org/learn/dashboard-app/adding-authentication#updating-the-login-form 아래 login-form.tsx 부터
